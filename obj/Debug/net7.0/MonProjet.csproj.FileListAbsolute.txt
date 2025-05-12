@@ -1,0 +1,15 @@
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/bin/Debug/net7.0/MonProjet
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/bin/Debug/net7.0/MonProjet.deps.json
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/bin/Debug/net7.0/MonProjet.runtimeconfig.json
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/bin/Debug/net7.0/MonProjet.dll
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/bin/Debug/net7.0/MonProjet.pdb
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.csproj.AssemblyReference.cache
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.AssemblyInfoInputs.cache
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.AssemblyInfo.cs
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.csproj.CoreCompileInputs.cache
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.dll
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/refint/MonProjet.dll
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.pdb
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/MonProjet.genruntimeconfig.cache
+/Users/caiolesnioskiparodiaraujo/Programming/SIO_SLAM/Csharp/MonProjet/obj/Debug/net7.0/ref/MonProjet.dll
