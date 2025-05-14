@@ -4,26 +4,27 @@ using System.Linq;
 
 main {
 
-class Etudiant
+public class Etudiant
 {
-    this.nom = nom;
-    this.age = age; 
-    this.note = note;
+    private string.nom ;
+    private int.age ;
+    private int.note ;
 }
 List<Notes> note = new List<Notes>();
 Disionary<string,int,int> Etudiants = new Dictionary<string,int,int>();
-
-
-
-
-Console.WriteLine("saisir une note :");
-    double average = Console.ReadLine.average();
-Console.WriteLine("la moyenne est : " + average);
-
-
+Console.WriteLine("Pour addicionner un etudiant, veuillez saisir son nom, son age et sa note");
 Console.WriteLine("saisir un nom :");
 
     string nom = Console.ReadLine();
+    
+Console.WriteLine("saisir une note :");
+
+    double average = Console.ReadLine.average();
+
+Console.WriteLine("la moyenne est : " + average);
+
+
+
 
 Console.WriteLine("saisir un age :");
 
